@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[344],{8386:function(e,a,i){i.r(a);var n=i(7294);a.default=function(){return n.createElement("div",null,"Desarrollo y mantenimiento de plataformas e-learning orientadas a las pruebas de admisión universitarias en USA. Se cumplía rol de Desarrollador, DevOps, asi como también participar de reuniones con el equipo de Diseño y el SH para la planificación de nuevas funcionalidades.")}}}]);
+//# sourceMappingURL=component---src-pages-portafolio-zinkerz-js-30fbf54ae05374ca9e64.js.map
