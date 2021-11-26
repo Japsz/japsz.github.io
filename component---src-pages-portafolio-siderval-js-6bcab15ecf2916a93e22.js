@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[569],{12633:function(e,t,n){n.r(t);var o=n(67294);t.default=function(){return o.createElement("div",null,"Platadorma de gestion de Inventario y Línea Productiva")}}}]);
+//# sourceMappingURL=component---src-pages-portafolio-siderval-js-6bcab15ecf2916a93e22.js.map

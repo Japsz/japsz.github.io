@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[680],{62464:function(e,t,l){l.r(t);var o=l(67294),r=l(46317),n=l(93751);t.default=function(){return o.createElement(r.Z,null,o.createElement(n.Z,{title:"UDD"}),"Simulador de toma de ramos")}}}]);
+//# sourceMappingURL=component---src-pages-portafolio-udd-js-276ef1a075ac52db6896.js.map
